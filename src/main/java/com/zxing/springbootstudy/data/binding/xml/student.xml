@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<list>
+    <student name="张三" number="10001" sex="男">
+        <className>尖子班</className>
+        <hobbys>
+            <hobby>篮球</hobby>
+            <hobby>音乐</hobby>
+            <hobby>乒乓球</hobby>
+        </hobbys>
+    </student>
+    <student name="李四" number="10002" sex="男">
+        <className>普通班</className>
+        <hobbys>
+            <hobby>篮球</hobby>
+            <hobby>音乐</hobby>
+            <hobby>乒乓球</hobby>
+        </hobbys>
+    </student>
+    <student name="莉莉" number="10003" sex="女">
+        <className>普通班</className>
+        <hobbys>
+            <hobby>篮球</hobby>
+            <hobby>音乐</hobby>
+            <hobby>乒乓球</hobby>
+        </hobbys>
+    </student>
+</list>
